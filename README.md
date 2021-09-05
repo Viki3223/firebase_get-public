@@ -1,7 +1,6 @@
-# <div align="center">  Read data from FireStore - Flutter Web </div>
+# <div align="center">  Read data from FireStore - Flutter Webs </div>
 
-<div align="center">
-  
+<div align="center">  
 [![BUILD](https://img.shields.io/badge/Build-Passing-<COLOR>.svg)](https://github.com/vijayinyoutube/firebase_get-public)
 [![vijaycreations](https://img.shields.io/badge/Follow_me-vijaycreations-orange.svg?&logo=youtube&logoColor=orange)](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
 [![Repo Status](https://img.shields.io/badge/RepoStatus-Active-blueviolet.svg)](https://github.com/vijayinyoutube/firebase_get-public)
@@ -21,7 +20,7 @@
 
 
 
-<p align="center">
+<p align="left">
 <img src="https://user-images.githubusercontent.com/58719230/132137144-169c7b58-41a2-41bf-8b45-8537194c5c62.png" width="100%">
 </p>
 
@@ -56,7 +55,7 @@ Visit my channel 👉 : https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ
 ```
 MIT License
 
-Copyright (c) 2021 Vijay R
+Copyright (c) 2021 Vijay Ramesh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
